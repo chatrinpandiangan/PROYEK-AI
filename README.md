@@ -1,3 +1,2 @@
 # PROYEK-AI
-
-This Project is to 
+This project is an Artificial Intelligence course project.
